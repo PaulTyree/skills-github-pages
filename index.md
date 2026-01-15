@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my birding blog!
 ---
+This is a test blog for my skills assignment
